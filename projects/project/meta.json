@@ -1,0 +1,14 @@
+{
+  "title": {
+    "zh-CN": "本项目",
+    "en-US": "This Project"
+  },
+  "url": "...",
+  "stack": [
+    "nuxt",
+    "nuxt-i18n",
+    "vue"
+  ],
+  "badges": {},
+  "hideExpand": false
+}

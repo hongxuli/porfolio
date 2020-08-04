@@ -1,0 +1,20 @@
+{
+  "title": {
+    "zh-CN": "美团 模仿",
+    "en-US": "MT clone"
+  },
+  "url": "https://blog.crimx.com",
+  "stack": [
+    "nuxt",
+    "elementUI",
+    "vue",
+    "sass",
+    "docker",
+    "koa",
+    "mongodb",
+    "redis"
+  ],
+  "badges": {
+  },
+  "hideExpand": false
+}

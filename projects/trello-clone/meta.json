@@ -1,0 +1,14 @@
+{
+  "title": {
+    "zh-CN": "Trello 模仿",
+    "en-US": "Trello clone"
+  },
+  "url": "https://blog.crimx.com",
+  "stack": [
+    "react",
+    "material-ui"
+  ],
+  "badges": {
+  },
+  "hideExpand": false
+}

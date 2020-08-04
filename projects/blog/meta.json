@@ -1,0 +1,18 @@
+{
+  "title": {
+    "zh-CN": "Hongxu's BLOG",
+    "en-US": "Hongxu's BLOG"
+  },
+  "url": "...",
+  "stack": [
+        "gatsby",
+        "graphql",
+        "react",
+        "bulma",
+        "sass"
+  ],
+  "badges": {
+
+  },
+  "hideExpand": false
+}

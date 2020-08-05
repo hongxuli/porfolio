@@ -11,7 +11,7 @@
     </div>
     <div class="content">
       <div class="link-blog-wrap">
-        <fancy-btn href="..." title="Blog" />
+        <fancy-btn href="https://blog.hongxu.codes/" title="Blog" />
         <fancy-btn :href="localePath('projects')" title="Projects" />
       </div>
     </div>

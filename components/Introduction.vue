@@ -8,7 +8,7 @@
       <p> I always keep an open mind and eager to learn new techniques.</p>
     </div>
     <p class="contact">
-      got any question? <a href="...." style="color:#865f4f">Contact me</a>
+      got any question? <a href="mailto:hongxu1205@gmail.com" style="color:#865f4f">Contact me</a>
     </p>
   </div>
 </template>

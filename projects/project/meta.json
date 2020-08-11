@@ -3,7 +3,7 @@
     "zh-CN": "本项目",
     "en-US": "This Project"
   },
-  "url": "...",
+  "url": "/",
   "stack": [
     "nuxt",
     "nuxt-i18n",

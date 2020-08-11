@@ -3,7 +3,7 @@
     "zh-CN": "Hongxu's BLOG",
     "en-US": "Hongxu's BLOG"
   },
-  "url": "...",
+  "url": "https://blog.hongxu.codes",
   "stack": [
         "gatsby",
         "graphql",

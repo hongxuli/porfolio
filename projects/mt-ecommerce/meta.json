@@ -3,7 +3,7 @@
     "zh-CN": "美团 模仿",
     "en-US": "MT clone"
   },
-  "url": "https://blog.crimx.com",
+  "url": "http://mt.hongxu.codes",
   "stack": [
     "nuxt",
     "elementUI",

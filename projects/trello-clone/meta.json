@@ -3,7 +3,7 @@
     "zh-CN": "Trello 模仿",
     "en-US": "Trello clone"
   },
-  "url": "https://blog.crimx.com",
+  "url": "https://trellohx.netlify.app",
   "stack": [
     "react",
     "material-ui"

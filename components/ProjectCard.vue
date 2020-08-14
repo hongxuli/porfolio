@@ -62,11 +62,13 @@ export default {
     }
   },
   methods: {
+    // dynamic set hight of the content
     async expand(e) {
       e.preventDefault()
       e.target.blur()
 
       if (this.isContentExpand) {
+        // 折叠
         this.isBtnExpand = false
         this.avatarHeight = this._avatarCollapseHeight
         this.contentHeight = this._contentCollapseHeight
@@ -82,6 +84,7 @@ export default {
         this.avatarHeight = ''
         this.contentHeight = ''
       } else {
+        // 展开 加上 refs.content 的高度
         this._avatarCollapseHeight = this.$refs.avatar.offsetHeight + 'px'
         this._contentCollapseHeight = this.$refs.content.offsetHeight + 'px'
         this.isContentExpand = true

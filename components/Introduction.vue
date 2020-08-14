@@ -5,11 +5,11 @@
       <p> My name is Hongxu Li. I'm a computer science graduate
       from University of Winnipeg.</p>
       <p>  I'm passinoate about being a web developer.</p>
-      <p> I always keep an open mind and eager to learn new techniques.</p>
+      <p> I always keep an open mind and eager to learn new technologies.</p>
     </div>
-    <p class="contact">
-      got any question? <a href="mailto:hongxu1205@gmail.com" style="color:#865f4f">Contact me</a>
-    </p>
+    <div class="contact">
+      Got any question? <a href="mailto:hongxu1205@gmail.com" style="color:#865f4f">Contact me</a>
+    </div>
   </div>
 </template>
 <script>

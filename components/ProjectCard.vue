@@ -88,9 +88,9 @@ export default {
         this._avatarCollapseHeight = this.$refs.avatar.offsetHeight + 'px'
         this._contentCollapseHeight = this.$refs.content.offsetHeight + 'px'
         this.isContentExpand = true
-        console.log(this.$refs.content);
-        console.log( this._contentCollapseHeight);
-        console.log(this);
+        // console.log(this.$refs.content);
+        // console.log( this._contentCollapseHeight);
+        // console.log(this);
 
 
 
@@ -99,8 +99,8 @@ export default {
 
         this._avatarExpandHeight = this.$refs.avatar.offsetWidth * 0.618 + 'px'
         this._contentExpandHeight = this.$refs.content.offsetHeight + 'px'
-        console.log(this.$refs.content);
-         console.log( this._contentExpandHeight);
+        // console.log(this.$refs.content);
+        //  console.log( this._contentExpandHeight);
 
 
         this.avatarHeight = this._avatarCollapseHeight
@@ -110,7 +110,7 @@ export default {
         // force reflow to put everything in position
         // assign to `this` to avoid being removed in tree-shaking
         this._reflow = document.body.offsetHeight
-        console.log(this._reflow);
+        // console.log(this._reflow);
 
 
         this.isBtnExpand = true
@@ -130,7 +130,7 @@ $height-duration: 0.5s;
   display: flex;
   overflow: hidden;
   width: 900px;
-  max-width: 100vw;
+  max-width: 80vw;
   margin-bottom: 3em;
   padding: 1em;
   color: inherit;
